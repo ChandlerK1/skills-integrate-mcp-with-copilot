@@ -74,6 +74,24 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
+    },
+    "Gaming Club": {
+        "description": "Play and compete in video games, learn game design and development",
+        "schedule": "Thursdays, 4:00 PM - 6:00 PM",
+        "max_participants": 25,
+        "participants": ["alex@mergington.edu", "sam@mergington.edu"]
+    },
+    "Esports Team": {
+        "description": "Competitive gaming team for tournaments and leagues",
+        "schedule": "Tuesdays and Fridays, 4:30 PM - 6:30 PM",
+        "max_participants": 18,
+        "participants": ["jordan@mergington.edu"]
+    },
+    "Board Game Club": {
+        "description": "Strategy board games, card games, and tabletop gaming",
+        "schedule": "Wednesdays, 3:30 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["taylor@mergington.edu", "casey@mergington.edu", "morgan@mergington.edu"]
     }
 }
 
